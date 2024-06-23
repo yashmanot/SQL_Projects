@@ -1,3 +1,5 @@
+--LINK TO TABLEAU DASHBOARD: https://public.tableau.com/app/profile/yash.manot/viz/CovidDashboard_17160672988070/Dashboard1?publish=yes
+
 USE CovidProject
 
 -- Analyzing the CovidDeaths table
